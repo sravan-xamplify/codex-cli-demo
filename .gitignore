@@ -1,0 +1,14 @@
+# Eclipse configuration files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+/target/
+
+# Log files
+*.log
+
+# Packaging outputs
+*.jar
+*.war
