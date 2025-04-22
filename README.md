@@ -31,3 +31,15 @@
  ```
  Welcome to the new era
  ```
+## Scripts
+
+Alternatively, you can use the provided scripts to build and run without manually entering commands:
+
+- On Unix/macOS:
+  ```bash
+  ./run.sh
+  ```
+- On Windows:
+  ```bat
+  run.bat
+  ```
