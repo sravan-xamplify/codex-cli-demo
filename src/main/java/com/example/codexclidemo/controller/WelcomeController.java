@@ -10,4 +10,12 @@ public class WelcomeController {
     public String welcome() {
         return "Welcome to the new era";
     }
+
+    /**
+     * Root endpoint mapping to welcome message.
+     */
+    @GetMapping("/")
+    public String root() {
+        return "Welcome to the new era";
+    }
 }
