@@ -1,0 +1,16 @@
+{
+  "name": "codex-cli-demo",
+  "description": "Spring Boot application for codexCliDemo",
+  "repository": "https://github.com/sravan-xamplify/codex-cli-demo",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ],
+  "env": {
+    "JAVA_VERSION": {
+      "description": "Java version",
+      "value": "21"
+    }
+  }
+}

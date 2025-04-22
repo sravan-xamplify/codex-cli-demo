@@ -31,6 +31,20 @@
  ```
  Welcome to the new era
  ```
+## Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sravan-xamplify/codex-cli-demo)
+
+Click the button above, authenticate with Heroku, and your app will be provisioned and deployed automatically.
+Once complete, visit:
+```
+https://<your-app-name>.herokuapp.com/
+```
+to see:
+```
+Welcome to the new era
+```
+
 ## Scripts
 
 Alternatively, you can use the provided scripts to build and run without manually entering commands:
